@@ -100,7 +100,7 @@ export default function Index({ data }) {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        Demo
+                        Source
                       </a>
                     </div>
                   </div>
