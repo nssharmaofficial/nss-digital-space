@@ -94,14 +94,16 @@ export default function Index({ data }) {
                           Article
                         </Link>
                       )}
-                      <a
+                      {project.url && (
+                        <a
                         className="button flex"
                         href={project.url}
                         target="_blank"
                         rel="noreferrer"
-                      >
-                        Source
-                      </a>
+                        >
+                        Demo
+                        </a>
+                      )}
                     </div>
                   </div>
                 )
