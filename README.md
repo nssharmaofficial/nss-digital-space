@@ -1,6 +1,6 @@
 # My digital space
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c0712884-e5f4-44a0-9299-33164068755f/deploy-status)](https://app.netlify.com/sites/nssharma/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa7899d6-8532-4de3-bfbf-b0a9b75ee43c/deploy-status)](https://app.netlify.com/sites/nssharma/deploys)
 
 In today's crowded digital world, I wanted to create a place that feels like mine — personal, creative, and reflective of who I am. That's how this website came to be.
 
