@@ -188,7 +188,7 @@ siteUrl: 'https://www.your-site.netlify.app'
 
 1. **Create a Netlify account**: if you don't have one already, create an account at [Netlify](https://app.netlify.com/teams/nssharmaofficial).
 1. **Generate an SSH deploy key**: generate this key on Netlify.
-1. **Add the deploy key to your content repository**: in your GitHub repository, go to `Settings` > `Deploy keys` and add the key.
+1. **Add the deploy key to your content repository**: in your GitHub account, go to `Settings` > `SSH and GPC keys` and add the key.
 1. **Create a new site**: in Netlify, create a new site from your Git repository.
 1. **Deploy the site**: click "Deploy site" and your site will go live.
 
