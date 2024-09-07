@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:nssharmaofficial/nss-digital-space-content.git

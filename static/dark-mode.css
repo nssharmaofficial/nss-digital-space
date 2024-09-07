@@ -1,0 +1,71 @@
+:root {
+  --green: #27b456;
+  --darkgreen: #39a765;
+
+  --primary-color: var(--light-yellow);
+  --background-color: var(--gray-8);
+  --navbar-background-color: var(--gray-7);
+  --card-background-color: var(--gray-7);
+  --year: var(--green);
+
+  --font-color-heading: white;
+  --font-color-heading3: white;
+  --font-color-base: var(--gray-2);
+  --font-color-muted: var(--gray-3);
+  --font-color-bright: white;
+  --font-color-hero-description: var(--gray-2);
+
+  --border-color: var(--gray-6);
+  --border-color-hover: var(--gray-4);
+
+  --button-border-color-hover: var(--gray-3);
+  --button-border-color: var(--gray-65);
+  --button-background-color: var(--gray-6);
+
+  --post-time-color: var(--gray-1);
+  --card-time-color: var(--primary-color);
+  --link: var(--primary-color);
+  --link-color-hover: #222;
+  --post-color-hover: #ffeea6;
+  --blockquote-background: rgba(120, 120, 240, 0.08);
+  /* --marker: var(--green); */
+  --file-background: #2e2b2b;
+  --inline-code-background-color: rgba(0, 0, 0, 0.2);
+  --highlight-color: var(--primary-color);
+  --navbar: var(--gray-7);
+  --navbar-background-hover: var(--gray-6);
+  --navbar-border: var(--gray-5);
+  --navbar-color: var(--gray-2);
+  --navbar-color-hover: white;
+  --category-link: #ffeea6;
+
+  --scrollbar-color: var(--gray-45);
+  --scrollbar-track: var(--gray-5);
+
+  --code-font-color: #d4dcea;
+  --code-background-color: #131313e1;
+  --code-border-color: var(--gray-45);
+  --inline-code-background-color: #2d2d2d;
+  --inline-code-font-color: var(--green);
+  --inline-code-border-color: #444;
+  --terminal-background-color: #131313e1;
+  --terminal-color: white;
+  --terminal-bar: -webkit-linear-gradient(top, #282828, #222);
+  --terminal-border: var(--border-color);
+  --terminal-accent: var(--gray-6);
+  --string: var(--green);
+  --variable: var(--lavender);
+  --property: #b3b9c5;
+  --number: #fca369;
+  --operator: #637187;
+  --punctuation: #c7cdd7;
+  --comment: #777c85;
+  --function: #28e3e6;
+  --keyword: var(--lavender);
+  --attribute: #fed06d;
+  --class: var(--violet);
+  --tag: var(--blue);
+  --error: #b0292c;
+  --code-link-hover: var(--link-color-hover);
+  --highlight-code-color: rgba(116, 207, 116, 0.329);
+}
