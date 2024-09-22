@@ -176,6 +176,16 @@ Your site will be running at http://localhost:8000.
 
 ### Step 7: Prepare for deployment
 
+#### Setup [`utteranc.es`](https://utteranc.es/)
+
+It is a lightweight comments widget built on GitHub issues. 
+
+Follow all the steps to allow people comment on posts where `comments-off` is `false`. Do not forget to change this line in `src/utils/helpers.js` (in my case, I have also created a special repository `comments`):
+
+```js
+commentScript.setAttribute('repo', 'nssharmaofficial/comments')
+```
+
 #### Change your site name
 
 Modify [`gatsby-config.js`](/gatsby-config.js) file to update your site URL:

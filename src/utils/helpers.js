@@ -44,7 +44,7 @@ export function appendComments() {
 
   commentScript.async = true
   commentScript.src = 'https://utteranc.es/client.js'
-  commentScript.setAttribute('repo', 'nss-digital-space/comments')
+  commentScript.setAttribute('repo', 'nssharmaofficial/comments')
   commentScript.setAttribute('issue-term', 'pathname')
   commentScript.setAttribute('id', 'utterances')
   commentScript.setAttribute(
